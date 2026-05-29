@@ -15,5 +15,5 @@ Contribuições:
 -Contribuições são bem vindas!!
 
 Licença:
-Este projeto está sobre a Licença de 
+Este projeto está sobre a Licença de (c) Gabriel-ars.
 
